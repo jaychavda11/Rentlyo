@@ -1,0 +1,7 @@
+{
+  "name": "Rentlyo - Ahmedabad Rental Marketplace",
+  "description": "Rent what you need. Earn from what you don't use. Ahmedabad-first peer-to-peer and local-business rental marketplace for electronics, cameras, tools, camping gear, and event equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
